@@ -36,10 +36,6 @@ Experienced Frontend Developer with a demonstrated history of working in the inf
 - ❓ Ask me about anything you want to know about me.  
 
 
-</td><td valign="top" width="50%">
-
-
-
 </td></tr></table>  
 
 <br/>  
